@@ -30,6 +30,8 @@ https://dictionary.goo.ne.jp/ - похож на weblio
 
 https://jisho.org/ - онлайн словарь
 
+https://yakuru.net/ - онлайн словарь
+
 https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/ - плагин, который показывает перевод слов по наведению мыши (версия для лисы)
 
 https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en - плагин, который показывает перевод слов по наведению мыши (версия для хрома)
