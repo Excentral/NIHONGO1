@@ -72,6 +72,7 @@ https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfc
 17) http://erogetrailers.com/ - различные эроге релейтед видео.
 18) https://vnanonreviews.blogspot.com/ - блог с ревью.
 19) https://fuwanovel.se/quiz.php - рекомендовалка вн.
+20) https://docs.google.com/document/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub - список вн для начинающих.
 
  Где качать вн? 
 1) http://rutracker.org - крупнейший российский трекер
